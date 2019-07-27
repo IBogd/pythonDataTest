@@ -1,6 +1,6 @@
 import matplotlib.pyplot as plt
 
-
+#this programm to show statistic
 xYear = [1960, 1970, 1980, 1990, 2000, 2010, 2016]
 pop_latvia = [2.1, 2.4, 2.5, 2.7, 2.4, 2.1, 1.9]
 pop_lithuania = [2.7, 3.1, 3.4, 3.7, 3.5, 3.1, 2.8]
